@@ -1,2 +1,2 @@
 # aula-16
-Exercícios de If, Else, SwitchCase
+Exercícios com condicionais em JavaScript.
